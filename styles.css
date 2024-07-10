@@ -59,6 +59,12 @@ header .parent{
     letter-spacing: 0%;
     text-align: center;
 
+
+}
+.btn-banner a{
+    text-decoration: none;
+    color: white;
+
 }
 
 
@@ -67,7 +73,7 @@ header .parent{
 main {
     margin: 70px auto;
     width: 1140px;
-    height: 1395px;
+    
     border-radius: 16px;
     background: rgba(33, 20, 13, 0.02);
     text-align: center;
@@ -200,7 +206,10 @@ text-align: left;
     margin-right: auto;
 }
 
+
+
 .p2-text{
+    
     margin: 88px 144px 10px 144px;
 }
 
@@ -416,5 +425,12 @@ input[type="text"]{
    
     
     
+
+}
+
+footer{
+    clear: both;
+    width: 1440px;
+height: 100px;
 
 }
